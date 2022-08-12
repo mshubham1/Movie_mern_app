@@ -13,8 +13,7 @@ This is the movie app through which users can search about the movie and filter 
 * Future scope of project
 
 ## Overview  📜
-The application is a web app which is developed in Flask Framework.
->Read more about it at [Blogpost.](https://medium.com/@shubhammourya2014/money-laundering-prevention-ac24066ec7fe)
+This is MERN Stack web application developed using Express, Node Js, REST API, MONGO DB.
 
 ## Installations  🗄️
 The Code is written in Python 3.8 If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
@@ -26,9 +25,6 @@ The Code is written in Python 3.8 If you don't have Python installed you can fin
 # AWS
 App is deployed in the AWS EC2 instance for free tier.
 ![image](https://user-images.githubusercontent.com/47842305/139574951-4d9f1732-456c-4862-b9c0-84f673c7f6b7.png)
-
-## Database 
-![pic3](https://user-images.githubusercontent.com/47842305/139574890-9579d928-05cb-4f5a-a345-b94de7c4edff.png)
 
 ## Tree Structure
 ```javascript
